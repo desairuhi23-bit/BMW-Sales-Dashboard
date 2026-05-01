@@ -1,0 +1,25 @@
+BMW SALES DASHBOARD (Power BI Project)
+
+This is my first dashboard project created using Power BI.
+The dashboard represents BMW sales data in a visual and interactive way.
+
+Features:
+- Total Revenue Analysis
+- Total Units Sold
+- Year-wise Sales Trends
+- Fuel Type Distribution
+- Top 5 Models by Revenue
+- Sales & Units by Color
+- Average Selling Price
+
+Tools Used:
+- Power BI
+
+Purpose:
+This project helps to understand business insights and improve data visualization skills.
+
+Blog Link:
+https://bmwsalesdashboard.blogspot.com/2026/04/project.html
+
+Created by:
+Desai Ruhi R.
